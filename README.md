@@ -3,8 +3,12 @@ Hi welcome to my portfolio
 # Information
 * Name : Apirom Yaboon.
 * Birthday : 10 september 1996.
+* Work at : Eiloy investment
+* Working Address : ตึกเหรียญไทย 456 หมู่23 ถนนมะลิวัลย์ ตำบลบ้านเป็ด อำเภอเมืองขอนแก่น ขอนแก่น 40000 บริษัท ฟอเร็กซ์ ซิตี้ จำกัด ห้อง A101-A102
 * Address : 46/4 sanmahapon meatang chiang mai 50150.
-* Phone : +66 992696776
+* Phone : +66 610191859
+
+
 * Email : molysulfur.mos@gmail.com
 * LinkedIn : https://www.linkedin.com/in/apirom-yaboon-b9153b191/
 # Education
